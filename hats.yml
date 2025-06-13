@@ -1,0 +1,1961 @@
+Hats:
+  Hamburger:
+    Name: '&aШляпа Гамбургер'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Chocolate Donut:
+    Name: '&aШляпа Шоколадный Пончик'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Sandwich:
+    Name: '&aШляпа Сэндвич'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Black Chocolate Bar:
+    Name: '&aШляпа Черный Шоколадный Батон'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  White Chocolate Bar:
+    Name: '&aШляпа Белый Шоколадный Батон'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Candy Cane:
+    Name: '&9Шляпа Леденцовая Трость'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Computer:
+    Name: '&aШляпа Компьютер'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Gold Steve:
+    Name: '&9Шляпа Золотой Стива'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Diamond Steve:
+    Name: '&5Шляпа Алмазного Стива'
+    Mystery Dust: 38
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Emerald Steve:
+    Name: '&6Шляпа Изумрудного Стива'
+    Mystery Dust: 48
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Gold Block:
+    Name: '&9Шляпа Золотого Блока'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Diamond Block:
+    Name: '&5Шляпа Алмазного Блока'
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Scared:
+    Name: '&aШляпа Испуга'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Angel:
+    Name: '&aШляпа Ангела'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Embarrassed:
+    Name: '&aШляпа Смущения'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Sad:
+    Name: '&aШляпа Грусти'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cool:
+    Name: '&aШляпа Крутости'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Surprised:
+    Name: '&aШляпа Удивления'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Dead:
+    Name: '&aШляпа Мёртвого'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cry:
+    Name: '&aШляпа Плача'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Grin:
+    Name: '&aШляпа Широкой Улыбки'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Wink:
+    Name: '&aШляпа Подмигивания'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Derp:
+    Name: '&aШляпа Дерпа'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Mustache:
+    Name: '&aШляпа с Усами'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Big Smile:
+    Name: '&aШляпа Большой Улыбки'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Smile:
+    Name: '&aШляпа Улыбки'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Neutral:
+    Name: '&aШляпа Нейтральная'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Fall In Love:
+    Name: '&aШляпа Влюблённости'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Netherlands:
+    Name: '&aШляпа Нидерландов'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Norway:
+    Name: '&aШляпа Норвегии'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Sweden:
+    Name: '&aШляпа Швеции'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Chile:
+    Name: '&aШляпа Чили'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Monaco:
+    Name: '&aШляпа Монако'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Canada:
+    Name: '&aШляпа Канады'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  United States:
+    Name: '&aШляпа Соединенных Штатов'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Italy:
+    Name: '&aШляпа Италии'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  England:
+    Name: '&aШляпа Англии'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Germany:
+    Name: '&aШляпа Германии'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Singapore:
+    Name: '&aШляпа Сингапура'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  France:
+    Name: '&aШляпа Франции'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Spain:
+    Name: '&aШляпа Испании'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Australia:
+    Name: '&aШляпа Австралии'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  China:
+    Name: '&aШляпа Китая'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-A:
+    Name: '&a«A» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-B:
+    Name: '&a«B» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-C:
+    Name: '&a«C» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-D:
+    Name: '&a«D» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-E:
+    Name: '&a«E» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-F:
+    Name: '&a«F» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-G:
+    Name: '&a«G» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-H:
+    Name: '&a«H» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-I:
+    Name: '&a«I» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-J:
+    Name: '&a«J» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-K:
+    Name: '&a«K» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-L:
+    Name: '&a«L» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-M:
+    Name: '&a«M» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-N:
+    Name: '&a«N» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-O:
+    Name: '&a«O» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-P:
+    Name: '&a«P» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-Q:
+    Name: '&a«Q» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-R:
+    Name: '&a«R» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-S:
+    Name: '&a«S» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-T:
+    Name: '&a«T» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-U:
+    Name: '&a«U» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-V:
+    Name: '&a«V» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-W:
+    Name: '&a«W» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-X:
+    Name: '&a«X» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-Y:
+    Name: '&a«Y» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Letter-Z:
+    Name: '&a«Z» Шляпа'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-A:
+    Name: '&aШляпа Радужная «A»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-B:
+    Name: '&aШляпа Радужная «B»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-C:
+    Name: '&aШляпа Радужная «C»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-D:
+    Name: '&aШляпа Радужная «D»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-E:
+    Name: '&aШляпа Радужная «E»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-F:
+    Name: '&aШляпа Радужная «F»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-G:
+    Name: '&aШляпа Радужная «G»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-H:
+    Name: '&aШляпа Радужная «H»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-I:
+    Name: '&aШляпа Радужная «I»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-J:
+    Name: '&aШляпа Радужная «J»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-K:
+    Name: '&aШляпа Радужная «K»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-L:
+    Name: '&aШляпа Радужная «L»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-M:
+    Name: '&aШляпа Радужная «M»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-N:
+    Name: '&aШляпа Радужная «N»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-O:
+    Name: '&aШляпа Радужная «O»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-P:
+    Name: '&aШляпа Радужная «P»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-Q:
+    Name: '&aШляпа Радужная «Q»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-R:
+    Name: '&aШляпа Радужная «R»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-S:
+    Name: '&aШляпа Радужная «S»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-T:
+    Name: '&aШляпа Радужная «T»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-U:
+    Name: '&aШляпа Радужная «U»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-V:
+    Name: '&aШляпа Радужная «V»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-W:
+    Name: '&aШляпа Радужная «W»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-X:
+    Name: '&aШляпа Радужная «X»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-Y:
+    Name: '&aШляпа Радужная «Y»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow-Letter-Z:
+    Name: '&aШляпа Радужная «Z»'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-0:
+    Name: '&aШляпа «0»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-1:
+    Name: '&aШляпа «1»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-2:
+    Name: '&aШляпа «2»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-3:
+    Name: '&aШляпа «3»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-4:
+    Name: '&aШляпа «4»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-5:
+    Name: '&aШляпа «5»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-6:
+    Name: '&aШляпа «6»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-7:
+    Name: '&aШляпа «7»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-8:
+    Name: '&aШляпа «8»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Number-9:
+    Name: '&aШляпа «9»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Symbol-Plus:
+    Name: '&aШляпа «+»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Symbol-Pound-Key:
+    Name: '&aШляпа «#»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Symbol-Question:
+    Name: '&aШляпа «?»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Symbol-Exclamation:
+    Name: '&aШляпа «!»'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Aquarius Constellation:
+    Name: '&9Шляпа «Aquarius»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pisces Constellation:
+    Name: '&9Шляпа «Pisces»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Aries Constellation:
+    Name: '&9Шляпа «Aries»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Taurus Constellation:
+    Name: '&9Шляпа «Taurus»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Gemini Constellation:
+    Name: '&9Шляпа «Gemini»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cancer Constellation:
+    Name: '&9Шляпа «Cancer»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Leo Constellation:
+    Name: '&9Шляпа «Leo»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Virgo Constellation:
+    Name: '&9Шляпа «Virgo»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Libra Constellation:
+    Name: '&9Шляпа «Libra»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Scorpio Constellation:
+    Name: '&9Шляпа «Scorpio»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Sagittarius Constellation:
+    Name: '&9Шляпа «Sagittarius»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Capricorn Constellation:
+    Name: '&9Шляпа «Capricorn»'
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Blaze:
+    Name: '&aШляпа Блэйз'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Enderman:
+    Name: '&aШляпа Эндермена'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Slime:
+    Name: '&aШляпа Слайма'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Magma Cube:
+    Name: '&aШляпа Магма Куба'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Ocelot:
+    Name: '&aШляпа Оцелота'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Ender Dragon:
+    Name: '&9Шляпа Эндер Дракона'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cave Spider:
+    Name: '&aШляпа Пещерного Паука'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Ghast:
+    Name: '&9Шляпа Гаста'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pig Zombie:
+    Name: '&9Шляпа Свинозомби'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Chicken:
+    Name: '&aШляпа Курочки'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pig:
+    Name: '&aШляпа Свинки'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cow:
+    Name: '&aШляпа Коровы'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Mushroom Cow:
+    Name: '&aШляпа Грибной Коровы'
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Squid:
+    Name: '&9Шляпа Кальмара'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Iron Golem:
+    Name: '&9Шляпа Железного Голема'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Horse:
+    Name: '&9Шляпа Лошади'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Herobrine:
+    Name: '&9Шляпа Херобрина'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Bird:
+    Name: '&aШляпа Птицы'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Poke Ball:
+    Name: '&aШляпа Покебол'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Mario:
+    Name: '&aШляпа Марио'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Nurse:
+    Name: '&aШляпа Медсестры'
+    Mystery Dust: 8
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Freddy Fazbear:
+    Name: '&aШляпа Фредди Фазбера'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Bonnie:
+    Name: '&aШляпа Бонни'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Jake:
+    Name: '&aШляпа Джейка'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Doge:
+    Name: '&aШляпа Додж'
+    Mystery Dust: 9
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cool Doge:
+    Name: '&9Шляпа Крутого Доджа'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Polar Bear:
+    Name: '&aШляпа Белого Медведя'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rabbit:
+    Name: '&aШляпа Кролика'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Koala:
+    Name: '&aШляпа Коалы'
+    Mystery Dust: 9
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Bee:
+    Name: '&aШляпа Пчелы'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Clownfish:
+    Name: '&9Шляпа Клоунской Рыбы'
+    Mystery Dust: 7
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Ferret:
+    Name: '&aШляпа Хорька'
+    Mystery Dust: 9
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Walrus:
+    Name: '&aШляпа Моржa'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Tiger:
+    Name: '&aШляпа Тигра'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Monkey:
+    Name: '&aШляпа Обезьяны'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cactus:
+    Name: '&aШляпа Кактуса'
+    Mystery Dust: 7
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Duck:
+    Name: '&9Шляпа Утки'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Earth:
+    Name: '&aШляпа Земли'
+    Mystery Dust: 9
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Beach Ball:
+    Name: '&aШляпа Пляжного Мяча'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Snowglobe:
+    Name: '&aШляпа Снежного Шарика'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Toaster:
+    Name: '&aШляпа Тостера'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Cheese:
+    Name: '&9Шляпа Сыра'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Mars:
+    Name: '&9Шляпа Марса'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Penguin:
+    Name: '&aШляпа Пингвина'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Elephant:
+    Name: '&aШляпа Слона'
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Astronaut:
+    Name: '&9Шляпа Астронавта'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Otter:
+    Name: '&9Шляпа Выдры'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Mummy:
+    Name: '&9Шляпа Мамми'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Orc:
+    Name: '&9Шляпа Орка'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Minotaur:
+    Name: '&9Шляпа Минотавра'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Demon Knight:
+    Name: '&9Шляпа Демонского Рыцаря'
+    Mystery Dust: 21
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  White Wizard:
+    Name: '&9Шляпа Белого Волшебника'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Miner:
+    Name: '&9Шляпа Шахтера'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Monk:
+    Name: '&9Шляпа Монаха'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Wood Elf:
+    Name: '&9Шляпа Лесного Эльфа'
+    Mystery Dust: 15
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pirate:
+    Name: '&9Шляпа Пирата'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Odin:
+    Name: '&9Шляпа Одина'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Ghost:
+    Name: '&9Шляпа Призрака'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Skull:
+    Name: '&9Шляпа Черепа'
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pumpkin:
+    Name: '&9Шляпа Тыквы'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Scarecrow:
+    Name: '&9Шляпа Пугала'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Fox:
+    Name: '&9Шляпа Лисы'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pug:
+    Name: '&9Шляпа Мопса'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Owl:
+    Name: '&9Шляпа Совы'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Panda:
+    Name: '&9Шляпа Панды'
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Sloth:
+    Name: '&9Шляпа Ленивца'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Gorilla:
+    Name: '&9Шляпа Гориллы'
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Snowman:
+    Name: '&5Шляпа Снеговика'
+    Mystery Dust: 43
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Reindeer:
+    Name: '&5Шляпа Оленя'
+    Mystery Dust: 43
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Shulker:
+    Name: '&5Шляпа Шалкера'
+    Mystery Dust: 45
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Turtle:
+    Name: '&5Шляпа Черепахи'
+    Mystery Dust: 45
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Solved Rubiks Cube:
+    Name: '&5Шляпа Собранного Кубика Рубика'
+    Mystery Dust: 45
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Scrambled Rubiks Cube:
+    Name: '&6Шляпа Перемешанного Кубика Рубика'
+    Mystery Dust: 55
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Rainbow Glitch:
+    Name: '&9Шляпа Радужного Глитча'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''
+  Pacman:
+    Name: '&9Шляпа Пакмэна'
+    Mystery Dust: 18
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: ''
+      Unlocked: ''

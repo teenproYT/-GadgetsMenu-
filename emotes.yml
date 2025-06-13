@@ -1,0 +1,369 @@
+Emotes:
+  Smile:
+    Name: '&aЭоция Улыбки'
+    Cooldown: 10
+    Mystery Dust: 10
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fулыбается'
+    Lore:
+      Locked:
+      - '&7Чувствуешь себя прекрасно?'
+      - '&7Покажи миру, насколько ты счастлив(а)'
+      - '&7с этой анимированной эмоцией Улыбки!'
+      Unlocked:
+      - '&7Чувствуешь себя прекрасно?'
+      - '&7Покажи миру, насколько ты счастлив(а)'
+      - '&7с этой анимированной эмоцией Улыбки!'
+  Cool:
+    Name: '&aэмоция Крутости'
+    Cooldown: 10
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fB)'
+    Lore:
+      Locked:
+      - '&7Чувствуешь себя самым крутым котом'
+      - '&7на сервере? Покажи всем'
+      - '&7свою крутизну с этой анимированной'
+      - '&7эмотой Крутости!'
+      Unlocked:
+      - '&7Чувствуешь себя самым крутым котом'
+      - '&7на сервере? Покажи всем'
+      - '&7свою крутизну с этой анимированной'
+      - '&7эмотой Крутости!'
+  Wink:
+    Name: '&aэмоция Подмигивания'
+    Cooldown: 10
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fподмигивает'
+    Lore:
+      Locked:
+      - '&7Развлекаешься? Дай знать,'
+      - '&7что ты в теме шутки'
+      - '&7с этой анимированной эмоцией'
+      - '&7Подмигивания!'
+      Unlocked:
+      - '&7Развлекаешься? Дай знать,'
+      - '&7что ты в теме шутки'
+      - '&7с этой анимированной эмоцией'
+      - '&7Подмигивания!'
+  Grin:
+    Name: '&aэмоция Широкой Улыбки'
+    Cooldown: 10
+    Mystery Dust: 13
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fУра!'
+    Lore:
+      Locked:
+      - '&7Если ты чувствуешь себя потрясающе,'
+      - '&7нет лучшего способа показать это,'
+      - '&7чем с этой анимированной'
+      - '&7эмотой Широкой Улыбки!'
+      Unlocked:
+      - '&7Если ты чувствуешь себя потрясающе,'
+      - '&7нет лучшего способа показать это,'
+      - '&7чем с этой анимированной'
+      - '&7эмотой Широкой Улыбки!'
+  Surprised:
+    Name: '&aэмоция Удивления'
+    Cooldown: 10
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fОГО'
+    Lore:
+      Locked:
+      - '&7Что-то тебя поразило?'
+      - '&7Дай лобби знать об этом'
+      - '&7с этой анимированной'
+      - '&7эмотой Удивления!'
+      Unlocked:
+      - '&7Что-то тебя поразило?'
+      - '&7Дай лобби знать об этом'
+      - '&7с этой анимированной'
+      - '&7эмотой Удивления!'
+  Cry:
+    Name: '&9эмоция Плача'
+    Cooldown: 10
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fВааа!'
+    Lore:
+      Locked:
+      - '&7Грустно? Пусти слёзы'
+      - '&7с этой анимированной'
+      - '&7эмотой Плача!'
+      Unlocked:
+      - '&7Грустно? Пусти слёзы'
+      - '&7с этой анимированной'
+      - '&7эмотой Плача!'
+  Sleepy:
+    Name: '&9эмоция Сонливости'
+    Cooldown: 10
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fЗзззз'
+    Lore:
+      Locked:
+      - '&7Не спал(а) всю ночь, играя'
+      - '&7в свою любимую игру? Засыпай'
+      - '&7с этой анимированной'
+      - '&7эмотой Сонливости!'
+      Unlocked:
+      - '&7Не спал(а) всю ночь, играя'
+      - '&7в свою любимую игру? Засыпай'
+      - '&7с этой анимированной'
+      - '&7эмотой Сонливости!'
+  Rage:
+    Name: '&9эмоция Ярости'
+    Cooldown: 10
+    Mystery Dust: 23
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&cГРРРР!!!'
+    Lore:
+      Locked:
+      - '&7Что-то закипает в тебе?'
+      - '&7Выпусти пар с этой'
+      - '&7анимированной эмоцией Ярости!'
+      Unlocked:
+      - '&7Что-то закипает в тебе?'
+      - '&7Выпусти пар с этой'
+      - '&7анимированной эмоцией Ярости!'
+  Frown:
+    Name: '&9эмоция Хмурости'
+    Cooldown: 10
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fсопливость'
+    Lore:
+      Locked:
+      - '&7Что-то тебя тяготит?'
+      - '&7Сообщи об этом миру'
+      - '&7с этой анимированной'
+      - '&7эмотой Хмурости!'
+      Unlocked:
+      - '&7Что-то тебя тяготит?'
+      - '&7Сообщи об этом миру'
+      - '&7с этой анимированной'
+      - '&7эмотой Хмурости!'
+  Cheeky:
+    Name: '&9эмоция Наглости'
+    Cooldown: 10
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&f:P'
+    Lore:
+      Locked:
+      - '&7Замешан(а) в шалостях?'
+      - '&7Дай знать всем о своих чувствах'
+      - '&7с этой анимированной'
+      - '&7эмотой Наглости!'
+      Unlocked:
+      - '&7Замешан(а) в шалостях?'
+      - '&7Дай знать всем о своих чувствах'
+      - '&7с этой анимированной'
+      - '&7эмотой Наглости!'
+  Sun Tan:
+    Name: '&9эмоция Загара'
+    Cooldown: 10
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fСолнечно'
+    Lore:
+      Locked:
+      - '&7Забыл(а) солнцезащитный крем,'
+      - '&7когда пошёл(а) на пляж?'
+      - '&7Дай всем знать, насколько'
+      - '&7ты подрумянен(а) с этой'
+      - '&7эмотой Загара!'
+      Unlocked:
+      - '&7Забыл(а) солнцезащитный крем,'
+      - '&7когда пошёл(а) на пляж?'
+      - '&7Дай всем знать, насколько'
+      - '&7ты подрумянен(а) с этой'
+      - '&7эмотой Загара!'
+  Heart Eyes:
+    Name: '&9эмоция Сердечных Глаз'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&d❤  ❤'
+    Lore:
+      Locked:
+      - '&7Чувствуешь себя отлично?'
+      - '&7Дарите позитив с этой'
+      - '&7эмотой Сердечных Глаз!'
+      Unlocked:
+      - '&7Чувствуешь себя отлично?'
+      - '&7Дарите позитив с этой'
+      - '&7эмотой Сердечных Глаз!'
+  Dizzy:
+    Name: '&9эмоция Головокружения'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fx_x'
+    Lore:
+      Locked:
+      - '&7Американские горки не для тебя?'
+      - '&7Дай знать, как ты ощущаешь'
+      - '&7с этой анимированной'
+      - '&7эмотой Головокружения!'
+      Unlocked:
+      - '&7Американские горки не для тебя?'
+      - '&7Дай знать, как ты ощущаешь'
+      - '&7с этой анимированной'
+      - '&7эмотой Головокружения!'
+  RIP:
+    Name: '&9эмоция RIP'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fОтдыхай в Пепперони'
+    Lore:
+      Locked:
+      - '&7Получил(а) последний удар?'
+      - '&7Пощади своих противников'
+      - '&7с этой эмоцией Отдыхай в'
+      - '&7Пепперони!'
+      Unlocked:
+      - '&7Получил(а) последний удар?'
+      - '&7Пощади своих противников'
+      - '&7с этой эмоцией Отдыхай в'
+      - '&7Пепперони!'
+  Relax:
+    Name: '&9эмоция Расслабления'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fФу'
+    Lore:
+      Locked:
+      - '&7Чувствуешь уют?'
+      - '&7Ты точно расслабишься'
+      - '&7с этой анимированной'
+      - '&7эмотой Расслабления!'
+      Unlocked:
+      - '&7Чувствуешь уют?'
+      - '&7Ты точно расслабишься'
+      - '&7с этой анимированной'
+      - '&7эмотой Расслабления!'
+  Spicy:
+    Name: '&9эмоция Остроты'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fЖжёт!'
+    Lore:
+      Locked:
+      - '&7Этот хабанеро перец'
+      - '&7заставил тебя вспыхнуть?'
+      - '&7Сообщи об этом с помощью'
+      - '&7этой эмоции Остроты!'
+      Unlocked:
+      - '&7Этот хабанеро перец'
+      - '&7заставил тебя вспыхнуть?'
+      - '&7Сообщи об этом с помощью'
+      - '&7этой эмоции Остроты!'
+  Deal With It:
+    Name: '&9эмоция Разберись с этим'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fС этим справишься :)'
+    Lore:
+      Locked:
+      - '&7Хочешь показать, насколько'
+      - '&7ты крут(а)? Пусть все видят,'
+      - '&7насколько ты силён(на)'
+      - '&7с этой эмоцией «Разберись с этим»!'
+      Unlocked:
+      - '&7Хочешь показать, насколько'
+      - '&7ты крут(а)? Пусть все видят,'
+      - '&7насколько ты силён(на)'
+      - '&7с этой эмоцией «Разберись с этим»!'

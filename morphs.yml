@@ -1,0 +1,395 @@
+Morphs:
+  Pig:
+    Name: '&9Морф Свиньи'
+    Material: COOKED_PORKCHOP
+    Cooldown: 10
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в свинью. Пока вы в этом облике,'
+      - '&7вы можете хрюкать, щёлкая правой кнопкой мыши по'
+      - '&7предмету Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в свинью. Пока вы в этом облике,'
+      - '&7вы можете хрюкать, щёлкая правой кнопкой мыши по'
+      - '&7предмету Slimeball в вашем ходбаре.'
+  Cow:
+    Name: '&9Морф Коровы'
+    Material: COOKED_BEEF
+    Cooldown: 10
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в корову. Пока вы в этом облике,'
+      - '&7вы можете мычать, щёлкая правой кнопкой мыши по'
+      - '&7предмету Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в корову. Пока вы в этом облике,'
+      - '&7вы можете мычать, щёлкая правой кнопкой мыши по'
+      - '&7предмету Slimeball в вашем ходбаре.'
+  Enderman:
+    Name: '&5Морф Эндэрмена'
+    Material: ENDER_PEARL
+    Cooldown: 5
+    Mystery Dust: 60
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в эндэрмена. Пока вы в этом облике,'
+      - '&7вы можете случайным образом телепортироваться,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в эндэрмена. Пока вы в этом облике,'
+      - '&7вы можете случайным образом телепортироваться,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+  Chicken:
+    Name: '&5Морф Курицы'
+    Material: EGG
+    Cooldown: 3
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в курицу. Пока вы в этом облике,'
+      - '&7вы можете нести яйца, щёлкая правой кнопкой мыши по'
+      - '&7предмету Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в курицу. Пока вы в этом облике,'
+      - '&7вы можете нести яйца, щёлкая правой кнопкой мыши по'
+      - '&7предмету Slimeball в вашем ходбаре.'
+  Spider:
+    Name: '&5Морф Паука'
+    Material: COBWEB
+    Cooldown: 10
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в паука. Пока вы в этом облике,'
+      - '&7вы можете разбрасывать паутину вокруг себя,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в паука. Пока вы в этом облике,'
+      - '&7вы можете разбрасывать паутину вокруг себя,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+  Sheep:
+    Name: '&5Морф Овцы'
+    Material: WHITE_WOOL
+    Cooldown: 10
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в овцу. Пока вы в этом облике,'
+      - '&7вы можете активировать режим Радужной Овцы,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в овцу. Пока вы в этом облике,'
+      - '&7вы можете активировать режим Радужной Овцы,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+  Skeleton:
+    Name: '&5Морф Скелета'
+    Material: BOW
+    Cooldown: 2
+    Mystery Dust: 70
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в скелета. Пока вы в этом облике,'
+      - '&7вы можете стрелять стрелами,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в скелета. Пока вы в этом облике,'
+      - '&7вы можете стрелять стрелами,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+  Creeper:
+    Name: '&6Морф Крипера'
+    Material: TNT
+    Cooldown: 10
+    Mystery Dust: 95
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Affect-Players: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в крипера. Пока вы в этом облике,'
+      - '&7вы можете взрываться, отбрасывая близлежащих игроков,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в крипера. Пока вы в этом облике,'
+      - '&7вы можете взрываться, отбрасывая близлежащих игроков,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбаре.'
+  Blaze:
+    Name: '&6Морф Блейза'
+    Material: BLAZE_POWDER
+    Cooldown: 3
+    Mystery Dust: 125
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в Блейза. Пока вы в этом облике,'
+      - '&7вы можете запускать огненные шары,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбарее.'
+      Unlocked:
+      - '&7Преобразуйтесь в Блейза. Пока вы в этом облике,'
+      - '&7вы можете запускать огненные шары,'
+      - '&7щёлкая правой кнопкой мыши по предмету'
+      - '&7Slimeball в вашем ходбарее.'
+  Zombie:
+    Name: '&6Морф Зомби'
+    Material: ROTTEN_FLESH
+    Cooldown: 10
+    Mystery Dust: 105
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в зомби. Пока вы в этом облике,'
+      - '&7вы можете заражать других игроков и превращать их в зомби,'
+      - '&7щёлкая правой кнопкой мыши с предметом'
+      - '&7Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в зомби. Пока вы в этом облике,'
+      - '&7вы можете заражать других игроков и превращать их в зомби,'
+      - '&7щёлкая правой кнопкой мыши с предметом'
+      - '&7Slimeball в вашем ходбаре.'
+  Iron Golem:
+    Name: '&6Морф Железного Голема'
+    Material: IRON_BLOCK
+    Cooldown: 10
+    Mystery Dust: 120
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в Железного Голема.'
+      - '&7Пока вы в этом облике, вы можете энергично'
+      - '&7ударять по земле, щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в Железного Голема.'
+      - '&7Пока вы в этом облике, вы можете энергично'
+      - '&7ударять по земле, щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Witch:
+    Name: '&6Морф Ведьмы'
+    Material: POTION:8196
+    Cooldown: 10
+    Mystery Dust: 110
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в ведьму. Пока вы в этом облике,'
+      - '&7вы можете бросать особые зелья,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в ведьму. Пока вы в этом облике,'
+      - '&7вы можете бросать особые зелья,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Snowman:
+    Name: '&6Морф Снеговика'
+    Material: SNOWBALL
+    Cooldown: 0
+    Mystery Dust: 125
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в снеговика. Пока вы в этом облике,'
+      - '&7вы можете бросать снежки,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в снеговика. Пока вы в этом облике,'
+      - '&7вы можете бросать снежки,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Guardian:
+    Name: '&6Морф Стража'
+    Material: PRISMARINE_SHARD
+    Cooldown: 3
+    Mystery Dust: 130
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в Стража. Пока вы в этом облике,'
+      - '&7вы можете стрелять лазерами,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в Стража. Пока вы в этом облике,'
+      - '&7вы можете стрелять лазерами,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Cave Spider:
+    Name: '&9Морф Пещерного Паука'
+    Material: SPIDER_EYE
+    Cooldown: 0
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в пещерного паука. Пока вы в этом облике,'
+      - '&7вы можете прыгать в воздух,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в пещерного паука. Пока вы в этом облике,'
+      - '&7вы можете прыгать в воздух,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Wither Skeleton:
+    Name: '&9Морф Скелета Визера'
+    Material: WITHER_SKELETON_SKULL
+    Cooldown: 0
+    Mystery Dust: 30
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в скелета визера. Пока вы в этом облике,'
+      - '&7вы можете бросать черепа визера,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в скелета визера. Пока вы в этом облике,'
+      - '&7вы можете бросать черепа визера,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Rabbit:
+    Name: '&5Морф Кролика'
+    Material: CARROT
+    Cooldown: 0
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в кролика. Пока вы в этом облике,'
+      - '&7вы можете прыгать очень высоко,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в кролика. Пока вы в этом облике,'
+      - '&7вы можете прыгать очень высоко,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Wolf:
+    Name: '&6Морф Волка'
+    Material: BONE
+    Cooldown: 10
+    Mystery Dust: 55
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в волка. Пока вы в этом облике,'
+      - '&7вы можете бросать кости,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в волка. Пока вы в этом облике,'
+      - '&7вы можете бросать кости,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+  Grinch:
+    Name: '&5Морф Гринча'
+    Material: COAL_BLOCK
+    Cooldown: 3
+    Mystery Dust: 75
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Morph-Ability: true
+    Lore:
+      Locked:
+      - '&7Преобразуйтесь в Гринча. Пока вы в этом облике,'
+      - '&7вы можете бросать уголь,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'
+      Unlocked:
+      - '&7Преобразуйтесь в Гринча. Пока вы в этом облике,'
+      - '&7вы можете бросать уголь,'
+      - '&7щёлкая правой кнопкой мыши с'
+      - '&7предметом Slimeball в вашем ходбаре.'

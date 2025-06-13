@@ -1,0 +1,199 @@
+Cloaks:
+  Superhero:
+    Name: '&6Плащ Супергероя'
+    Material: RED_DYE
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Прямо из комиксов'
+      - '&7Откуда приходит знаменитый'
+      - '&7красный плащ!'
+      Unlocked:
+      - '&7Прямо из комиксов'
+      - '&7Откуда приходит знаменитый'
+      - '&7красный плащ!'
+  Mystical:
+    Name: '&6Мистический Плащ'
+    Material: BOOK
+    Mystery Dust: 85
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Окутанный тайной, этот'
+      - '&7плащ является центром'
+      - '&7множества легенд о'
+      - '&7его силах.'
+      Unlocked:
+      - '&7Окутанный тайной, этот'
+      - '&7плащ является центром'
+      - '&7множества легенд о'
+      - '&7его силах.'
+  Firewings:
+    Name: '&6Плащ Огненных Крыльев'
+    Material: BLAZE_POWDER
+    Mystery Dust: 72
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Восстань из пепла, как'
+      - '&7феникс в этом проявлении'
+      - '&7пламени!'
+      Unlocked:
+      - '&7Восстань из пепла, как'
+      - '&7феникс в этом проявлении'
+      - '&7пламени!'
+  Vampire Wings:
+    Name: '&6Плащ Вампирских Крыльев'
+    Material: REDSTONE
+    Mystery Dust: 78
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Огромные чёрно-красные крылья'
+      - '&7выходят из твоей спины, чтобы'
+      - '&7образовать зловещие вампирские'
+      - '&7крылья!'
+      Unlocked:
+      - '&7Огромные чёрно-красные крылья'
+      - '&7выходят из твоей спины, чтобы'
+      - '&7образовать зловещие вампирские'
+      - '&7крылья!'
+  Frosty:
+    Name: '&6Морозный Плащ'
+    Material: SNOWBALL
+    Mystery Dust: 78
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Холод никогда мне не мешал'
+      - '&7во всяком случае!'
+      Unlocked:
+      - '&7Холод никогда мне не мешал'
+      - '&7во всяком случае!'
+  Icewings:
+    Name: '&6Плащ Ледяных Крыльев'
+    Material: ICE
+    Mystery Dust: 72
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Неужели только я или здесь холодно?'
+      - '&7Тут?'
+      Unlocked:
+      - '&7Неужели только я или здесь холодно?'
+      - '&7Тут?'
+  Shaman:
+    Name: '&6Плащ Шамана'
+    Material: BONE
+    Mystery Dust: 85
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Окутайся торнадо,'
+      - '&7как у Торнадо Шамана'
+      Unlocked:
+      - '&7Окутайся торнадо,'
+      - '&7как у Торнадо Шамана'
+  Firerings:
+    Name: '&6Плащ Огненных Колец'
+    Material: BLAZE_ROD
+    Mystery Dust: 50
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Окутайся пламенем,'
+      - '&7может, твоя походка'
+      - '&7сгорит в пепел.'
+      Unlocked:
+      - '&7Окутайся пламенем,'
+      - '&7может, твоя походка'
+      - '&7сгорит в пепел.'
+  Scanner:
+    Name: '&6Плащ Сканера'
+    Material: BEACON
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Блип-блуп!'
+      Unlocked:
+      - '&7Блип-блуп!'
+  Archangel:
+    Name: '&6Плащ Архангела'
+    Material: head:36f0485453d3a90f354321e8f382bef106bf506424f70c04a207f82bdb2856b9
+    Mystery Dust: 70
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Иногда ангелы – это просто'
+      - '&7обычные люди, которые помогают'
+      - '&7нам верить в чудеса'
+      - '&7снова.'
+      Unlocked:
+      - '&7Иногда ангелы – это просто'
+      - '&7обычные люди, которые помогают'
+      - '&7нам верить в чудеса'
+      - '&7снова.'
+  Yin and Yang:
+    Name: '&6Плащ Инь и Ян'
+    Material: head:7fc0e041e45e1d96934bb9159e7b9e1ed74ff99a9b9342214302fdba57fd2
+    Mystery Dust: 62
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Достигни баланса'
+      - '&7во вселенной и смотри, как она'
+      - '&7кружится под твоими ногами.'
+      Unlocked:
+      - '&7Достигни баланса'
+      - '&7во вселенной и смотри, как она'
+      - '&7кружится под твоими ногами.'
+  Flame of the Titans:
+    Name: '&6Плащ Пламени Титанов'
+    Material: MAGMA_CREAM
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Говорят, это пламя'
+      - '&7есть дух титана.'
+      Unlocked:
+      - '&7Говорят, это пламя'
+      - '&7есть дух титана.'

@@ -1,0 +1,824 @@
+Suits:
+  Frog:
+    Name: '&6Костюм Лягушки'
+    Material: head:cc3c601e4ba3064bec98a51552473aa7a5646e60fddc18d187c09b4a351d2
+    GUI-Name: Костюм Лягушки
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Один из самых редких костюмов.'
+    - '&7Просматривайте крутые мемы с высоты,'
+    - '&7когда надеваете этот костюм Лягушки.'
+    - ''
+    - '&7Способность полного набора: Супер высокий'
+    - '&7прыжок.'
+    Equipments:
+      Frog Helmet:
+        Name: '&6Лягушачий Шлем костюма Лягушки'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Frog Chestplate:
+        Name: '&5Лягушачий Нагрудник костюма Лягушки'
+        Mystery Dust: 32
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Frog Leggings:
+        Name: '&9Лягушачьи Поножи костюма Лягушки'
+        Mystery Dust: 18
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Frog Boots:
+        Name: '&aЛягушачьи Ботинки костюма Лягушки'
+        Mystery Dust: 7
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Ninja:
+    Name: '&6Костюм Ниндзя'
+    Material: head:e96616bb48ac61a153a9f5c35979f3523c24c366c621d6bacaed10f822b68b
+    GUI-Name: Костюм Ниндзя
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Тих, но смертоносен – крадитесь по'
+    - '&7любимому лобби в этом костюме Ниндзя.'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы'
+    - '&7бросить ниндзя-шурикен!'
+    Equipments:
+      Ninja Helmet:
+        Name: '&6Ниндзя Шлем'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ninja Chestplate:
+        Name: '&5Ниндзя Нагрудник'
+        Mystery Dust: 35
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ninja Leggings:
+        Name: '&9Ниндзя Поножи'
+        Mystery Dust: 20
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ninja Boots:
+        Name: '&aНиндзя Ботинки'
+        Mystery Dust: 10
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Speedster:
+    Name: '&6Костюм Скорости'
+    Material: head:5138ccdee2eb7cf60d5489d388f210629b2e787bb530e65bd1a73126d01067
+    GUI-Name: Костюм Скорости
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Ничто не движется быстрее скорости света...'
+    - '&7кроме тебя, если ты носишь этот костюм.'
+    - ''
+    - '&7Способность полного набора: Рывок для сверхбыстрого бега.'
+    Equipments:
+      Speedster Helmet:
+        Name: '&6Шлем костюма Скорости'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Speedster Chestplate:
+        Name: '&5Нагрудник костюма Скорости'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Speedster Leggings:
+        Name: '&9Поножи костюма Скорости'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Speedster Boots:
+        Name: '&aБотинки костюма Скорости'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Ghostly:
+    Name: '&6Костюм Призрачного Скелета'
+    Material: SKELETON_SKULL
+    GUI-Name: Костюм Призрачного Скелета
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Чувствуете жуткое? Наденьте этот'
+    - '&7жутко-страшный костюм Призрачного Скелета!'
+    - ''
+    - '&7Способность полного набора: Делает носителя невидимым под костюмом!'
+    Equipments:
+      Ghostly Helmet:
+        Name: '&6Шлем костюма Призрачного Скелета'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ghostly Chestplate:
+        Name: '&5Нагрудник костюма Призрачного Скелета'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ghostly Leggings:
+        Name: '&9Поножи костюма Призрачного Скелета'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ghostly Boots:
+        Name: '&aБотинки костюма Призрачного Скелета'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Disco:
+    Name: '&6Диско Костюм'
+    Material: LEATHER_HELMET:#FF0000
+    GUI-Name: Диско Костюм
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Это был любимый танец твоего папы –'
+    - '&7вспомни boogle с этим диско костюмом!'
+    - ''
+    - '&7Способность полного набора: Меняет цвета при надевании!'
+    Equipments:
+      Disco Helmet:
+        Name: '&6Диско Шлем'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Disco Chestplate:
+        Name: '&5Диско Нагрудник'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Disco Leggings:
+        Name: '&9Диско Поножи'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Disco Boots:
+        Name: '&aДиско Ботинки'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Mermaid:
+    Name: '&6Костюм Русалки'
+    Material: head:aa36d682f9152a98e53cbf3d583b59df8f024e184531c97c2ea25816d1288f
+    GUI-Name: Костюм Русалки
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Всё лучше под водой! Погрузитесь в море'
+    - '&7с этим костюмом Русалки!'
+    - ''
+    - '&7Способность полного набора: Превращается'
+    - '&7в прекрасного кальмара под водой.'
+    Equipments:
+      Mermaid Helmet:
+        Name: '&6Шлем костюма Русалки'
+        Mystery Dust: 70
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Mermaid Chestplate:
+        Name: '&5Нагрудник костюма Русалки'
+        Mystery Dust: 30
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Mermaid Leggings:
+        Name: '&9Поножи костюма Русалки'
+        Mystery Dust: 16
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Mermaid Boots:
+        Name: '&aБотинки костюма Русалки'
+        Mystery Dust: 6
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Spooderman:
+    Name: '&6Костюм Спудермэна'
+    Material: head:9f2f7ebd9e263c939f54f939c9e2bcb18d4431f5577c389d6cbcf1371b11d
+    GUI-Name: Костюм Спудермэна
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7С большой силой приходит большая ответственность.'
+    - '&7Спасайте день в этом костюме Спудермэна.'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы'
+    - '&7махать по лобби!'
+    Equipments:
+      Spooderman Helmet:
+        Name: '&6Шлем костюма Спудермэна'
+        Mystery Dust: 75
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Spooderman Chestplate:
+        Name: '&5Нагрудник костюма Спудермэна'
+        Mystery Dust: 33
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Spooderman Leggings:
+        Name: '&9Поножи костюма Спудермэна'
+        Mystery Dust: 17
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Spooderman Boots:
+        Name: '&aБотинки костюма Спудермэна'
+        Mystery Dust: 8
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Warrior:
+    Name: '&6Костюм Воина'
+    Material: head:38f56b7f7ac16046a9816e57c2c3296420ccddb7cc51b1c0de8075a816b747d9
+    GUI-Name: Костюм Воина
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Путь воина – честь, стойкость и'
+    - '&7убойные способности для разнесения врагов!'
+    - ''
+    - '&7Способность полного набора: Левый клик – Ground Slam,'
+    - '&7или взгляд вперёд – Seismic Wave.'
+    Equipments:
+      Warrior Helmet:
+        Name: '&6Шлем костюма Воина'
+        Mystery Dust: 75
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Warrior Chestplate:
+        Name: '&5Нагрудник костюма Воина'
+        Mystery Dust: 30
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Warrior Leggings:
+        Name: '&9Поножи костюма Воина'
+        Mystery Dust: 16
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Warrior Boots:
+        Name: '&aБотинки костюма Воина'
+        Mystery Dust: 6
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Necromancer:
+    Name: '&6Костюм Некроманта'
+    Material: head:9ddbd0bb9622ce124dabb6ba3baa9a9ea71430f870fec15b3ea81f1961a412b2
+    GUI-Name: Костюм Некроманта
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Оживите мёртвых в этом костюме Некроманта!'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы воскресить'
+    - '&7мёртвых.'
+    Equipments:
+      Necromancer Helmet:
+        Name: '&6Шлем костюма Некроманта'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Necromancer Chestplate:
+        Name: '&5Нагрудник костюма Некроманта'
+        Mystery Dust: 35
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Necromancer Leggings:
+        Name: '&9Поножи костюма Некроманта'
+        Mystery Dust: 20
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Necromancer Boots:
+        Name: '&aБотинки костюма Некроманта'
+        Mystery Dust: 10
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Thor:
+    Name: '&6Костюм Тора'
+    Material: head:2a9f83329a2e475a75335b3949aa4d054f9de413bfb28aa60de2e5259ecaad1
+    GUI-Name: Костюм Тора
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7"Мне нравится этот костюм. ЕЩЁ ОДИН!"'
+    - '&7Ощутите силу Бога Грома в этом костюме Тора.'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы ударить молнией.'
+    Equipments:
+      Thor Helmet:
+        Name: '&6Шлем костюма Тора'
+        Mystery Dust: 70
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Thor Chestplate:
+        Name: '&5Нагрудник костюма Тора'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Thor Leggings:
+        Name: '&9Поножи костюма Тора'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Thor Boots:
+        Name: '&aБотинки костюма Тора'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Baker:
+    Name: '&6Костюм Пекаря'
+    Material: head:b8dea622fb0fbbd2639384c1604f5f1a3c111aa993447319fbac494bff4477
+    GUI-Name: Костюм Пекаря
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Что может быть лучше печенья? Человек,'
+    - '&7способный испечь миллион печений!'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы разносить'
+    - '&7свежевыпечённые лакомства по лобби.'
+    Equipments:
+      Baker Helmet:
+        Name: '&6Шлем костюма Пекаря'
+        Mystery Dust: 70
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Baker Chestplate:
+        Name: '&5Нагрудник костюма Пекаря'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Baker Leggings:
+        Name: '&9Поножи костюма Пекаря'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Baker Boots:
+        Name: '&aБотинки костюма Пекаря'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Bumblebee:
+    Name: '&6Костюм Шмеля'
+    Material: head:bf92d3f385cc16c77675a46de3e833ac17c74ada3e1946ef7021ecdbf9f1ba
+    GUI-Name: Костюм Шмеля
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Мы не уверены, в чем весь этот ажиотаж,'
+    - '&7но попробуйте этот костюм Шмеля!'
+    - ''
+    - '&7Способность полного набора: Этот костюм воспроизводит'
+    - '&7классическую мелодию при полете или левом клике!'
+    Equipments:
+      Bumblebee Helmet:
+        Name: '&6Шлем костюма Шмеля'
+        Mystery Dust: 70
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Bumblebee Chestplate:
+        Name: '&5Нагрудник костюма Шмеля'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Bumblebee Leggings:
+        Name: '&9Поножи костюма Шмеля'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Bumblebee Boots:
+        Name: '&aБотинки костюма Шмеля'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Firefighter:
+    Name: '&6Костюм Пожарного'
+    Material: head:7e9b8d13ae2b8e24b8a06fc982b2628a8131d1b16d6deb9cf31fb633f8ca2e
+    GUI-Name: Костюм Пожарного
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Станьте героем дня в этом костюме Пожарного!'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы полить'
+    - '&7водой.'
+    Equipments:
+      Firefighter Helmet:
+        Name: '&6Шлем костюма Пожарного'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Firefighter Chestplate:
+        Name: '&5Нагрудник костюма Пожарного'
+        Mystery Dust: 34
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Firefighter Leggings:
+        Name: '&9Поножи костюма Пожарного'
+        Mystery Dust: 19
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Firefighter Boots:
+        Name: '&aБотинки костюма Пожарного'
+        Mystery Dust: 9
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Plumber:
+    Name: '&6Костюм Сантехника'
+    Material: head:6f7eb75e5542cc4937aaad5bb8657393eaf0265006eac1dc96691f32e16437
+    GUI-Name: Костюм Сантехника
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Извините, ваша принцесса в другом лобби!'
+    - ''
+    - '&7Способность полного набора: Кликните, чтобы бросить'
+    - '&7огненные шары!'
+    Equipments:
+      Plumber Helmet:
+        Name: '&6Шлем костюма Сантехника'
+        Mystery Dust: 73
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Plumber Chestplate:
+        Name: '&5Нагрудник костюма Сантехника'
+        Mystery Dust: 32
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Plumber Leggings:
+        Name: '&9Поножи костюма Сантехника'
+        Mystery Dust: 18
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Plumber Boots:
+        Name: '&aБотинки костюма Сантехника'
+        Mystery Dust: 7
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Ice Walker:
+    Name: '&6Костюм Ледоступа'
+    Material: head:371c7c94da4f86a8fe6ea3a5b2f7dad24731ac420ef47ca4c1c766dea60accc
+    GUI-Name: Костюм Ледоступа
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Нет, она не хочет строить снеговика...'
+    - '&7и не говорите ей "Let it go!"'
+    - ''
+    - '&7Способность полного набора: Поглощайте тепло'
+    - '&7и охлаждайте мир вокруг, шаг за шагом.'
+    Equipments:
+      Ice Walker Helmet:
+        Name: '&6Шлем костюма Ледоступа'
+        Mystery Dust: 70
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ice Walker Chestplate:
+        Name: '&5Нагрудник костюма Ледоступа'
+        Mystery Dust: 25
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ice Walker Leggings:
+        Name: '&9Поножи костюма Ледоступа'
+        Mystery Dust: 13
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Ice Walker Boots:
+        Name: '&aБотинки костюма Ледоступа'
+        Mystery Dust: 5
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Vampire:
+    Name: '&6Костюм Вампира'
+    Material: head:8d44756e0b4ece8d746296a3d5e297e1415f4ba17647ffe228385383d161a9
+    GUI-Name: Костюм Вампира
+    Enabled: true
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Как летучая мышь из преисподней, станьте'
+    - '&7жадным кровожадным злодеем в этом костюме Вампира!'
+    - ''
+    - '&7Способность полного набора: При полёте превращайтесь'
+    - '&7в летучую мышь.'
+    Equipments:
+      Vampire Helmet:
+        Name: '&6Шлем костюма Вампира'
+        Mystery Dust: 74
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Vampire Chestplate:
+        Name: '&5Нагрудник костюма Вампира'
+        Mystery Dust: 34
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Vampire Leggings:
+        Name: '&9Поножи костюма Вампира'
+        Mystery Dust: 18
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+      Vampire Boots:
+        Name: '&aБотинки костюма Вампира'
+        Mystery Dust: 7
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: ''
+          Unlocked: ''
+  
+  Settings:
+    Disable-Usage-If-Cannot-Break-Block: false
+Settings:
+  Disable-Usage-If-Cannot-Break-Block: false

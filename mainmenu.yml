@@ -1,0 +1,120 @@
+MainMenu:
+  Hats:
+    Name: '&eШляпы'
+    Material: DIAMOND_HELMET
+    Slot: 11
+    Lore:
+    - '&7Собери все шляпы и'
+    - '&7носите их в лобби.'
+  Animated Hats:
+    Name: '&eАнимированные шляпы'
+    Material: head:5ebfd2396cbabdb42c348bcf41599c87a506a71ef60948c496f95c6cb63141
+    Slot: 12
+    Lore:
+    - '&7Эти шляпы поднимают уровень,'
+    - '&7и двигаются, когда они на голове.'
+    - '&7Новый уровень анимации!'
+  Particles:
+    Name: '&eЧастицы'
+    Material: BLAZE_POWDER
+    Slot: 13
+    Lore:
+    - '&7Создавай частицы вокруг себя'
+    - '&7в лобби, стоя неподвижно,'
+    - '&7с этими крутыми эффектами'
+    - '&7частиц!'
+  Suits:
+    Name: '&eКостюмы'
+    Material: GOLDEN_LEGGINGS
+    Slot: 14
+    Lore:
+    - '&7Собери и надень все части'
+    - '&7конкретного костюма, чтобы'
+    - '&7получить уникальные эффекты!'
+  Gadgets:
+    Name: '&eГаджеты'
+    Material: PISTON
+    Slot: 15
+    Lore:
+    - '&7Эти забавные игрушки'
+    - '&7можно использовать в'
+    - '&7лобби.'
+  Pets:
+    Name: '&eПитомцы'
+    Material: BONE
+    Slot: 19
+    Lore:
+    - '&7Открой этих питомцев, чтобы'
+    - '&7они сопровождали тебя'
+    - '&7в лобби!'
+  Miniatures:
+    Name: '&eМиниатюры'
+    Material: head:9da39269ef45f825ec61bb4f8aa09bd3cf07996fb6fac338a6e91d6699ae425
+    Slot: 20
+    Lore:
+    - '&7Открой миниатюры, чтобы'
+    - '&7маленький друг'
+    - '&7сопровождал тебя в лобби!'
+  Morphs:
+    Name: '&eМорфы'
+    Material: ZOMBIE_HEAD
+    Slot: 31
+    Lore:
+    - '&7Абсолютная трансформация!'
+    - '&7Используй их в лобби, и ты'
+    - '&7превратишься в монстра,'
+    - '&7открывая уникальные способности для'
+    - '&7всех вокруг!'
+  Banners:
+    Name: '&eБаннеры'
+    Material: CUSTOM_MATERIAL_1
+    Slot: 22
+    Lore:
+    - '&7Открой все баннеры и'
+    - '&7носите их как шляпы в'
+    - '&7лобби!'
+  Emotes:
+    Name: '&eЭмоты'
+    Material: head:60c432cbc490a8af6e9dfeb28095c0a0ec79fff705fb184674d1e743bd05baa
+    Slot: 24
+    Lore:
+    - '&7Вырази себя! Покажи миру,'
+    - '&7что ты чувствуешь'
+    - '&7с помощью этих уникальных'
+    - '&7анимированных эмотов.'
+  Cloaks:
+    Name: '&eПлащи'
+    Material: ENCHANTING_TABLE
+    Slot: 25
+    Lore:
+    - '&7Сделанные из частиц, эти'
+    - '&7плащи дарят небывалый стиль.'
+    - '&7Чтобы активировать их,'
+    - '&7стой неподвижно 1 секунду'
+    - '&7в лобби.'
+Inventory-Size: 54
+Custom-Items:
+  Item-1:
+    Name: '&eПользовательский предмет 1'
+    Material: BOOK
+    Enabled: false
+    Slot: 4
+    Commands:
+    - CONSOLE:say {PLAYER} clicked Custom Item 1.
+    - PLAYER:say I clicked Custom Item 1.
+    Lore:
+    - '&7Это описание пользовательского предмета.'
+  Item-2:
+    Name: ''
+    Material: BLACK_STAINED_GLASS_PANE
+    Enabled: false
+    Slots:
+    - 0-3
+    - 5-8
+    - '9'
+    - '17'
+    Commands:
+    - CONSOLE:say {PLAYER} clicked Custom Item 2.
+    - PLAYER:say I clicked Custom Item 2.
+    Lore:
+    - '&7Это описание пользовательского предмета.'

@@ -1,0 +1,316 @@
+Particles:
+  Water Splash:
+    Name: '&aЧастица Водяной Брызг'
+    Material: NETHER_STAR
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы водяного'
+      - '&7брызга вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы водяного'
+      - '&7брызга вокруг вас в лобби.'
+  Drip Water:
+    Name: '&9Частица Капающей Воды'
+    Material: WATER_BUCKET
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы капающей'
+      - '&7воды вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы капающей'
+      - '&7воды вокруг вас в лобби.'
+  Drip Lava:
+    Name: '&9Частица Капающей Лавы'
+    Material: LAVA_BUCKET
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы капающей'
+      - '&7лавы вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы капающей'
+      - '&7лавы вокруг вас в лобби.'
+  Crit:
+    Name: '&9Частица Крит'
+    Material: STONE_SWORD
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы крита'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы крита'
+      - '&7вокруг вас в лобби.'
+  Magic Crit:
+    Name: '&9Частица Магического Крита'
+    Material: SPLASH_POTION:8204
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы магического'
+      - '&7крита вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы магического'
+      - '&7крита вокруг вас в лобби.'
+  Spell:
+    Name: '&5Частица Заклинания'
+    Material: ENDER_CHEST
+    Mystery Dust: 30
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы заклинания'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы заклинания'
+      - '&7вокруг вас в лобби.'
+  Instant Spell:
+    Name: '&5Частица Мгновенного Заклинания'
+    Material: GHAST_TEAR
+    Mystery Dust: 32
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы мгновенного'
+      - '&7заклинания вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы мгновенного'
+      - '&7заклинания вокруг вас в лобби.'
+  Mob Spell:
+    Name: '&5Частица Заклинания Моба'
+    Material: EXPERIENCE_BOTTLE
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы заклинания моба'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы заклинания моба'
+      - '&7вокруг вас в лобби.'
+  Witch Spell:
+    Name: '&6Частица Заклинания Ведьмы'
+    Material: POTION:8260
+    Mystery Dust: 40
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы заклинания ведьмы'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы заклинания ведьмы'
+      - '&7вокруг вас в лобби.'
+  Angry Villager:
+    Name: '&5Частица Злого Жителя'
+    Material: FIRE_CHARGE
+    Mystery Dust: 32
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы злого жителя'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы злого жителя'
+      - '&7вокруг вас в лобби.'
+  Happy Villager:
+    Name: '&5Частица Радостного Жителя'
+    Material: EMERALD
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы радостного жителя'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы радостного жителя'
+      - '&7вокруг вас в лобби.'
+  Town Aura:
+    Name: '&aЧастица Ауры Города'
+    Material: MYCELIUM
+    Mystery Dust: 18
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы ауры города'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы ауры города'
+      - '&7вокруг вас в лобби.'
+  Note:
+    Name: '&5Частица Ноты'
+    Material: NOTE_BLOCK
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы ноты'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы ноты'
+      - '&7вокруг вас в лобби.'
+  Portal:
+    Name: '&aЧастица Портала'
+    Material: ENDER_PEARL
+    Mystery Dust: 18
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы портала'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы портала'
+      - '&7вокруг вас в лобби.'
+  Enchantment Table:
+    Name: '&9Частица Стола Зачарования'
+    Material: ENCHANTING_TABLE
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы стола'
+      - '&7зачарования вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы стола'
+      - '&7зачарования вокруг вас в лобби.'
+  Flame:
+    Name: '&6Частица Пламени'
+    Material: GOLD_NUGGET
+    Mystery Dust: 45
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы пламени'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы пламени'
+      - '&7вокруг вас в лобби.'
+  Redstone:
+    Name: '&6Частица Красного Камня'
+    Material: REDSTONE
+    Mystery Dust: 48
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы красного камня'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы красного камня'
+      - '&7вокруг вас в лобби.'
+  Heart:
+    Name: '&9Частица Сердца'
+    Material: POPPY
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы сердца'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы сердца'
+      - '&7вокруг вас в лобби.'
+  Fireworks Spark:
+    Name: '&6Частица Искры Фейерверка'
+    Material: FIREWORK_ROCKET
+    Mystery Dust: 52
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы искры фейерверка'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы искры фейерверка'
+      - '&7вокруг вас в лобби.'
+  Smoke:
+    Name: '&aЧастица Дыма'
+    Material: FIREWORK_STAR
+    Mystery Dust: 18
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы дыма'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы дыма'
+      - '&7вокруг вас в лобби.'
+  Slime:
+    Name: '&aЧастица Слизи'
+    Material: SLIME_BALL
+    Mystery Dust: 22
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked:
+      - '&7Отображает кастомные частицы слизи'
+      - '&7вокруг вас в лобби.'
+      Unlocked:
+      - '&7Отображает кастомные частицы слизи'
+      - '&7вокруг вас в лобби.'

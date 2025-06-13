@@ -1,0 +1,1264 @@
+Gadgets:
+  Fun And Games:
+    Name: '&eВеселье и Игры'
+    Material: head:b89042082bb7a7618b784ee7605a134c58834e21e374c888937161057f6c7
+    GUI-Name: Веселье и Игры
+    Enabled: true
+    Lore:
+    - '&7Играйте или просто'
+    - '&7развлекайтесь в лобби с этими'
+    - '&7забавными гаджетами!'
+    Types:
+      Magic 9 Ball:
+        Name: '&aГаджет Магический 9 Шар'
+        Material: BLACK_WOOL
+        Cooldown: 3
+        Mystery Dust: 22
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+        - '&eКот говорит: &fПОСКОРМИ МЕНЯ.'
+        - '&eТролль говорит: &fТрололололололол'
+        - '&eАдминистрация говорит: &fПожалуйста, не нарушайте правила.'
+        - '&eТвоя мама говорит: &fТы должен(на) перестать так много играть.'
+        - '&eКевин Рыбак говорит: &fДавайте поймаем рыбу!'
+        - '&eБрайан Миллс говорит: &fЯ найду тебя и убью!'
+        - '&eАнна говорит: &fХочешь построить снежную бабу?'
+        - '&eМиньон говорит: &fБИ ДУ БИ ДУ БИ ДУ!'
+        - '&eХеробрин говорит: &fНикто не выживет!'
+        - '&eСобака говорит: &fМяу!'
+        - '&eДарт Вейдер говорит: &fЯ твой отец.'
+        - '&eЭльза говорит: &fХолод мне никогда не мешал.'
+        - '&eКрипер говорит: &fНе волнуйся, я не взорву тебя прямо в лицо'
+        - '&eНотч говорит: &fЖизнь веселее, если играть в Minecraft.'
+        - '&eМарио говорит: &fЭто я, Марио!'
+        - '&eКот говорит: &fЛай!'
+        - 'Боб Росс говорит: Нет ошибок, только счастливые случайности.'
+        Lore:
+          Locked:
+          - '&7Узнай ответы на свои'
+          - '&7проблемы с помощью некоторых'
+          - '&7величайших в мире'
+          - '&7лидеров.'
+          Unlocked:
+          - '&7Узнай ответы на свои'
+          - '&7проблемы с помощью некоторых'
+          - '&7величайших в мире'
+          - '&7лидеров.'
+      Fortune Cookie:
+        Name: '&aГаджет Печенье с Предсказанием'
+        Material: COOKIE
+        Cooldown: 0
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Player:
+          - '&e{PLAYER}&f: О, смотри, печенье!'
+          - '&e{PLAYER}&f: Это печенье было вкусным!'
+          - '&e{PLAYER}&f: Но подожди, внутри было маленькое письмо! Что оно говорит?'
+          Fortune Cookie:
+          - '&eПеченье с предсказанием&f: Если тебе не нравится, где ты, сделай несколько
+            шагов налево. Если и там не станет лучше, мы не сможем помочь!'
+          - '&eПеченье с предсказанием&f: Некоторые из нас учатся на чужих ошибках;
+            остальные – это просто другие.'
+          - '&eПеченье с предсказанием&f: Завтра сверни налево. Потом направо. Затем
+            снова налево. И ты достигнешь пункта назначения.'
+          - '&eПеченье с предсказанием&f: Ты уникален, как и все остальные.'
+          - '&eПеченье с предсказанием&f: Возможно, ты нерешительный человек.'
+          - '&eПеченье с предсказанием&f: Предсказание, которое ты ищешь, находится
+            в другом печенье.'
+          - '&eПеченье с предсказанием&f: В мире есть три типа людей: те, кто умеют
+            считать, и те, кто не умеют.'
+          - '&eПеченье с предсказанием&f: В парикмахерской с двумя мастерами выбери
+            того, у кого самая ужасная стрижка.'
+          - '&eПеченье с предсказанием&f: Чистая комната – признак сломанного компьютера.'
+          - '&eПеченье с предсказанием&f: Кто рано встаёт, тот... но это отвратительно,
+            кому же захочется червячка???'
+          - '&eПеченье с предсказанием&f: 34% статистики в интернете – выдумка!'
+          - '&eПеченье с предсказанием&f: Если не хочешь, чтобы тебя снова просили
+            что-то сделать, делай это ужасно с первого раза!'
+          - '&eПеченье с предсказанием&f: Сильные люди не унижают других. Они поднимают
+            их и бросают на землю для максимального эффекта.'
+          - '&eПеченье с предсказанием&f: Не переживай насчёт статистики – важно получать
+            удовольствие!'
+          - '&eПеченье с предсказанием&f: Следующее предложение – ложь. Предыдущее
+            – правда.'
+          - '&eПеченье с предсказанием&f: Если ты достаточно сильно нажмёшь, сможешь
+            преодолеть любое препятствие – разве что дверь с надписью "тянуть"!'
+          - '&eПеченье с предсказанием&f: Если хочешь привлечь внимание семьи, просто
+            отключи WiFi на минуту!'
+          - '&eПеченье с предсказанием&f: Ничто так не портит пятницу, как осознание,
+            что на самом деле это вторник.'
+          - '&eПеченье с предсказанием&f: Ты начинал(а) с ничего, а теперь у тебя
+            почти то же самое.'
+          - '&eПеченье с предсказанием&f: Делай это! Просто делай! Не позволяй мечтам
+            оставаться мечтами, просто делай!'
+          - '&eПеченье с предсказанием&f: Жизнь – как коробка шоколадных конфет. Кто-то
+            с мягкой начинкой, кто-то жёсткий и жевательный, а кто-то просто орешки!'
+          - '&eПеченье с предсказанием&f: Если мама говорит "нет", спроси папу!'
+          - '&eПеченье с предсказанием&f: Вселенная состоит из протонов, нейтронов,
+            электронов и идиотов.'
+          - '&eПеченье с предсказанием&f: Делай перерывы в игре – это полезно для
+            здоровья!'
+          - '&eПеченье с предсказанием&f: Если дверей нет, попробуй окно. Если окон
+            нет, хватит пытаться вломиться в мой дом!'
+          - '&eПеченье с предсказанием&f: Если думаешь, что никому ты не нужен, попробуй
+            не платить счета!'
+          - '&eПеченье с предсказанием&f: Слушай только советы от печений – не доверяй
+            прочей предсказательной еде!'
+          - '&eПеченье с предсказанием&f: Никогда не сдавайся, разве что ты уже в
+            международном конкурсе "Сдавайся".'
+          - '&eПеченье с предсказанием&f: Сделай чьё-то утро лучше, проявив спортивное
+            мастерство, и кто-то сделает твоё!'
+          - '&eПеченье с предсказанием&f: Когда жизнь подаёт тебе лимоны, сделай лимонад.
+            Когда дает лаймы – выбрось их в окно и купи настоящий лимонад!'
+          - '&eПеченье с предсказанием&f: Если не стоит есть после темноты, зачем
+            тогда свет в холодильнике?'
+          - '&eПеченье с предсказанием&f: Измени пароль на "incorrect". Так, если
+            забудешь, компьютер подскажет!'
+          - '&eПеченье с предсказанием&f: Если забудешь, как выглядишь, просто посмотри
+            в зеркало. Если зеркало не ответило, это окно!'
+          - '&eПеченье с предсказанием&f: Ты победишь в игре *вставь название игры*.
+            Просто продолжай пытаться, пока не добьешься успеха!'
+          - '&eПеченье с предсказанием&f: Единственная замена хорошим манерам – это
+            быстрые рефлексы.'
+          - '&eПеченье с предсказанием&f: Отношения как алгебра. Смотри на свою X
+            и задавайся вопросом Y?'
+        Lore:
+          Locked:
+          - '&7Что может быть лучше, чем печенье?'
+          - '&7Печенье, которое дает'
+          - '&7настоящий жизненный совет! Наслаждайся'
+          - '&7сладким лакомством и мудрыми словами'
+          - '&7с этим гаджетом Печенье с Предсказанием.'
+          Unlocked:
+          - '&7Что может быть лучше, чем печенье?'
+          - '&7Печенье, которое дает'
+          - '&7настоящий жизненный совет! Наслаждайся'
+          - '&7сладким лакомством и мудрыми словами'
+          - '&7с этим гаджетом Печенье с Предсказанием.'
+      Tetherball:
+        Name: '&5Гаджет Тетербол'
+        Material: OAK_FENCE
+        Cooldown: 90
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Создает шест, с комплектом'
+          - '&7с мячом на шнуре -'
+          - '&7идеально для быстрой игры в'
+          - '&7тетербол!'
+          Unlocked:
+          - '&7Создает шест, с комплектом'
+          - '&7с мячом на шнуре -'
+          - '&7идеально для быстрой игры в'
+          - '&7тетербол!'
+      Diving Board:
+        Name: '&6Гаджет Прыжковой Площадки'
+        Material: CAULDRON
+        Cooldown: 60
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+        - '&eСальто назад!'
+        - '&eСальто вперед!'
+        - '&eПогружение, как у лебедя'
+        - '&eПадение на живот!'
+        - '&eКанонбол!'
+        Lore:
+          Locked:
+          - '&7Все шло отлично, пока'
+          - '&7не случился... КАНОНБОЛ!'
+          - '&7Покажи свои водные'
+          - '&7навыки с этим гаджетом Прыжковой Площадки.'
+          Unlocked:
+          - '&7Все шло отлично, пока'
+          - '&7не случился... КАНОНБОЛ!'
+          - '&7Покажи свои водные'
+          - '&7навыки с этим гаджетом Прыжковой Площадки.'
+      Trampoline:
+        Name: '&6Гаджет Батут'
+        Material: HOPPER
+        Cooldown: 80
+        Mystery Dust: 92
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Settings:
+          Jump-Power: 3
+        Lore:
+          Locked:
+          - '&7Создает батут,'
+          - '&7который отправляет тебя в'
+          - '&7воздух. Пригласи друзей!'
+          Unlocked:
+          - '&7Создает батут,'
+          - '&7который отправляет тебя в'
+          - '&7воздух. Пригласи друзей!'
+      Flower Giver:
+        Name: '&9Гаджет Даритель Цветов'
+        Material: FLOWER_POT
+        Cooldown: 5
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Target-A-Player: '&cЩелкни правой кнопкой по игроку, чтобы подарить ему
+            цветок!'
+          Already-Had-A-Flower: '&cУ этого игрока уже есть цветок.'
+          Sent-A-Flower: '&eТы отправил(а) {PLAYER} цветок!'
+          Already-Sent-A-Request: '&cТы уже отправил(а) запрос на цветок игроку {PLAYER}&c.'
+          Received-Flower: '{PLAYER} &eподарил(а) тебе цветок!'
+          Accept: '&a&l[ПРИНЯТЬ]'
+          Decline: '&c&l[ОТКЛОНИТЬ]'
+          Accept-Json-message: '&7Нажми здесь, чтобы принять цветок.'
+          Decline-Json-message: '&7Нажми здесь, чтобы отклонить цветок.'
+          No-Pending-Invite: '&cУ тебя нет запроса от этого игрока.'
+          Accepted-Flower: '{PLAYER} &aпринял(а) твой подарок!'
+          Declined-Flower: '{PLAYER} &cотклонил(а) твой подарок!'
+          Right-Click-To-Remove-Flower: '&eЩелкни правой кнопкой, чтобы убрать свой
+            цветок!'
+        Lore:
+          Locked:
+          - '&7Распространи хорошее настроение,'
+          - '&7даря цветы всем'
+          - '&7вокруг себя!'
+          Unlocked:
+          - '&7Распространи хорошее настроение,'
+          - '&7даря цветы всем'
+          - '&7вокруг себя!'
+      Sand Castle:
+        Name: '&9Гаджет Песочный Замок'
+        Material: head:9918b3b7516b1946566fd7b287f82ef44afafea9a2c3bd385691f7f0f42097f8
+        Cooldown: 30
+        Mystery Dust: 28
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Построй свой собственный замок из'
+          - '&7настоящего песка!'
+          Unlocked:
+          - '&7Построй свой собственный замок из'
+          - '&7настоящего песка!'
+      BBQ Grill:
+        Name: '&5Гаджет Барбекю-Гриль'
+        Material: OBSIDIAN
+        Cooldown: 45
+        Mystery Dust: 58
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Давай, ты это заслужил(а)!'
+          - '&7Отмечай с настоящим барбекю-стилем!'
+          Unlocked:
+          - '&7Давай, ты это заслужил(а)!'
+          - '&7Отмечай с настоящим барбекю-стилем!'
+      Pocket Beach:
+        Name: '&5Гаджет Карманный Пляж'
+        Material: SAND
+        Cooldown: 60
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Не можешь пойти на пляж? Не беда!'
+          - '&7Проблем нет! Носи свой собственный'
+          - '&7пляж прямо в кармане!'
+          Unlocked:
+          - '&7Не можешь пойти на пляж? Не беда!'
+          - '&7Проблем нет! Носи свой собственный'
+          - '&7пляж прямо в кармане!'
+      Ice Cream Stand:
+        Name: '&6Гаджет Морозильный Ларёк'
+        Material: head:239299c36b54bb11e57c686bfe53a5c1c441310f90f69347bacddbf343609d
+        Cooldown: 30
+        Mystery Dust: 68
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+        - '&eПродавец мороженого&f: Топпинг с фундуком... Двойной шоколад... И ваниль...
+          Чего не хватает?'
+        - '&eПродавец мороженого&f: Клубничное мороженое, мое любимое!'
+        - '&eПродавец мороженого&f: Боюсь, у меня сейчас нет сдачи :('
+        - '&eПродавец мороженого&f: Извините, пока принимаем только наличные!'
+        Lore:
+          Locked:
+          - '&7"Дайте мне ванильное мороженое с вафлей, спасибо!"'
+          Unlocked:
+          - '&7"Дайте мне ванильное мороженое с вафлей, спасибо!"'
+      Tic Tac Toe:
+        Name: '&6Гаджет Крестики-нолики'
+        Material: head:a6864136e374f5d676fb4f5b03e10a7bcdb4190b376378ae9492045fb4adf9d
+        Cooldown: 30
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Target-A-Player: '&cЩелкни правой кнопкой по игроку, чтобы начать игру в
+            крестики-нолики с ним!'
+          Target-Other-Player: '&cЭтот игрок уже играет в крестики-нолики. Пожалуйста,
+            выбери другого игрока!'
+          Challenge: '&eТы вызвал(а) {PLAYER} &eна игру в крестики-нолики.'
+          Already-Sent-A-Request: '&cТы уже отправил(а) запрос на игру {PLAYER}&c.'
+          Received-Challenge: '{PLAYER} &eвызвал(а) тебя на игру в крестики-нолики.'
+          Accept: '&a&l[ПРИНЯТЬ]'
+          Decline: '&c&l[ОТКЛОНИТЬ]'
+          Accept-Json-message: '&7Нажми здесь, чтобы принять вызов.'
+          Decline-Json-message: '&7Нажми здесь, чтобы отклонить вызов.'
+          No-Pending-Challenge: '&cУ тебя нет ожидающего вызова от этого игрока.'
+          Accepted-Challenge: '{PLAYER} &aпринял(а) твой вызов!'
+          Declined-Challenge: '{PLAYER} &cотклонил(а) твой вызов!'
+          Draw: '&cИгра в крестики-нолики с {PLAYER} завершилась вничью.'
+          Win: '&aТы победил(а) {PLAYER} в крестики-нолики!'
+          Loss: '{PLAYER} &cпобедил(а) тебя в крестики-нолики!'
+          Opponent-Left-Game: '&cТвой противник покинул игру в крестики-нолики!'
+          Player-Left-Game: '&cТы покинул(а) игру в крестики-нолики!'
+        Items:
+          GUI-Name: Крестики-нолики - {OPPONENT}
+          Place-Symbol:
+            Name: '&aНажми здесь!'
+            Material: ITEM_FRAME
+            Lore:
+            - '&7Нажми здесь, чтобы поставить'
+            - '&7свой символ здесь.'
+          Not-Your-Turn:
+            Name: '&cСейчас не твой ход!'
+            Material: PAINTING
+            Lore:
+            - '&7Сейчас не твой'
+            - '&7ход - ты не можешь'
+            - '&7ничего сделать.'
+          Challenger:
+            Name: '&6Оранжевый: &f{PLAYER}'
+            Material: ORANGE_TERRACOTTA
+            Lore:
+            - '&7Оранжевый игрок:'
+            - '&7{PLAYER}&7.'
+          Opponent:
+            Name: '&bСиний: &f{PLAYER}'
+            Material: LIGHT_BLUE_TERRACOTTA
+            Lore:
+            - '&7Синий игрок:'
+            - '&7{PLAYER}&7.'
+          Challenger-Symbol:
+            Name: '&6Оранжевый'
+            Material: ORANGE_TERRACOTTA
+            Lore:
+            - '&7Этот слот принадлежит'
+            - '&7Оранжевому.'
+          Opponent-Symbol:
+            Name: '&bСиний'
+            Material: LIGHT_BLUE_TERRACOTTA
+            Lore:
+            - '&7Этот слот принадлежит Синему.'
+        Lore:
+          Locked:
+          - '&7Вызови друзей на'
+          - '&7игру в крестики-нолики. Кто'
+          - '&7станет победителем?'
+          Unlocked:
+          - '&7Вызови друзей на'
+          - '&7игру в крестики-нолики. Кто'
+          - '&7станет победителем?'
+  Mobs And NPCs:
+    Name: '&eМобы и NPC'
+    Material: CREEPER_HEAD
+    GUI-Name: Мобы и NPC
+    Enabled: true
+    Lore:
+    - '&7Порождай и играй с безумными'
+    - '&7существами с помощью этих'
+    - '&7гаджетов Мобов и NPC!'
+    Types:
+      Piggy Bank:
+        Name: '&9Гаджет Копилки'
+        Material: head:198df42f477f213ff5e9d7fa5a4cc4a69f20d9cef2b90c4ae4f29bd17287b5
+        Cooldown: 40
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Взорви копилку и получи'
+          - '&7всё золото.'
+          Unlocked:
+          - '&7Взорви копилку и получи'
+          - '&7всё золото.'
+      CATapult:
+        Name: '&9Гаджет КАТапульта'
+        Material: OCELOT_SPAWN_EGG
+        Cooldown: 50
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Атакуй своих врагов с'
+          - '&7их самым страшным кошмарами – кошками!'
+          - '&7Запускает 5 взрывоопасных кошек'
+          - '&7в направлении, куда ты целишься.'
+          Unlocked:
+          - '&7Атакуй своих врагов с'
+          - '&7их самым страшным кошмарами – кошками!'
+          - '&7Запускает 5 взрывоопасных кошек'
+          - '&7в направлении, куда ты целишься.'
+      When Pigs Fly:
+        Name: '&9Гаджет Когда Свиньи Летают'
+        Material: SADDLE
+        Cooldown: 30
+        Mystery Dust: 28
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Порождает летающую свинью,'
+          - '&7на которой ты едешь в бой!'
+          Unlocked:
+          - '&7Порождает летающую свинью,'
+          - '&7на которой ты едешь в бой!'
+      Creeper Astronaut:
+        Name: '&9Гаджет Астронавт-Крипер'
+        Material: CREEPER_SPAWN_EGG
+        Cooldown: 40
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Запусти крипера в'
+          - '&7воздух, если он достигнет'
+          - '&7вершины, насладись зрелищным'
+          - '&7шоу!'
+          Unlocked:
+          - '&7Запусти крипера в'
+          - '&7воздух, если он достигнет'
+          - '&7вершины, насладись зрелищным'
+          - '&7шоу!'
+      Exploding Sheep:
+        Name: '&9Гаджет Взрывающаяся Овца'
+        Material: SHEARS
+        Cooldown: 15
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Remain-Time: '&c&l{REMAIN_TIME}s'
+        Lore:
+          Locked:
+          - '&7Прямо из Farm Hunt,'
+          - '&7это единственная'
+          - '&7Взрывная Овца, и'
+          - '&7еще более взрывная, чем когда-либо.'
+          Unlocked:
+          - '&7Прямо из Farm Hunt,'
+          - '&7это единственная'
+          - '&7Взрывная Овца, и'
+          - '&7еще более взрывная, чем когда-либо.'
+      Bat Launcher:
+        Name: '&9Гаджет Запуск Бэтов'
+        Material: IRON_HORSE_ARMOR
+        Affect-Players: true
+        Cooldown: 10
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Запускает волну летучих мышей'
+          - '&7на которых те, кого ты не любишь,'
+          - '&7не любят!'
+          Unlocked:
+          - '&7Запускает волну летучих мышей'
+          - '&7на которых те, кого ты не любишь,'
+          - '&7не любят!'
+      Railgun:
+        Name: '&aГаджет Рельсотрон'
+        Material: LEVER
+        Cooldown: 5
+        Mystery Dust: 16
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Это базовый рельсотрон'
+          - '&7готовый стрелять по команде!'
+          Unlocked:
+          - '&7Это базовый рельсотрон'
+          - '&7готовый стрелять по команде!'
+      Explosive Bow:
+        Name: '&aГаджет Взрывной Лук'
+        Material: BOW
+        Cooldown: 8
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Телепортационные палки для'
+          - '&7неудачников. Все крутые дети'
+          - '&7используют Взрывной Лук'
+          Unlocked:
+          - '&7Телепортационные палки для'
+          - '&7неудачников. Все крутые дети'
+          - '&7используют Взрывной Лук'
+      Paintball Gun:
+        Name: '&aГаджет Пейнтбол'
+        Material: DIAMOND_HORSE_ARMOR
+        Radius: 3
+        Blacklist:
+        - SAND
+        - GRAVEL
+        - SPAWNER
+        Cooldown: 3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Что может быть лучше, чтобы оживить'
+          - '&7лобби, чем с'
+          - '&7немного цвета? Или много,'
+          - '&7кто вообще считает?'
+          Unlocked:
+          - '&7Что может быть лучше, чтобы оживить'
+          - '&7лобби, чем с'
+          - '&7немного цвета? Или много,'
+          - '&7кто вообще считает?'
+      Melon Launcher:
+        Name: '&aГаджет Запуск Дынь'
+        Material: MELON
+        Cooldown: 3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Съешь дольки дыни для'
+          - '&7временного ускорения!'
+          Unlocked:
+          - '&7Съешь дольки дыни для'
+          - '&7временного ускорения!'
+      Scarecrow:
+        Name: '&6Scarecrow Gadget'
+        Material: JACK_O_LANTERN
+        Cooldown: 30
+        Mystery Dust: 65
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Jack-O-Lantern-DisplayName: '&cScarecrow'
+        Lore:
+          Locked:
+          - '&7Spawns a scarecrow that'
+          - '&7changes the head of nearby'
+          - '&7players into a pumpkin.'
+          Unlocked:
+          - '&7Spawns a scarecrow that'
+          - '&7changes the head of nearby'
+          - '&7players into a pumpkin.'
+  Movement:
+    Name: '&eДвижение'
+    Material: GOLDEN_BOOTS
+    GUI-Name: Движение
+    Enabled: true
+    Lore:
+    - '&7Измени способ своей ходьбы,'
+    - '&7беги или летай по лобби'
+    - '&7с помощью этих гаджетов, изменяющих'
+    - '&7движение!'
+    Types:
+      Cowboy:
+        Name: '&5Гаджет Ковбоя'
+        Material: CACTUS
+        Cooldown: 5
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Позволяет тебе оседлать'
+          - '&7ближайшего игрока. Создай'
+          - '&7башни, ездя на других'
+          - '&7игроках!'
+          Unlocked:
+          - '&7Позволяет тебе оседлать'
+          - '&7ближайшего игрока. Создай'
+          - '&7башни, ездя на других'
+          - '&7игроках!'
+      Teleport Stick:
+        Name: '&9Гаджет Телепортационная Палка'
+        Material: STICK
+        Cooldown: 5
+        Mystery Dust: 18
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Range: 30
+        Lore:
+          Locked:
+          - '&7Позволяет тебе телепортироваться'
+          - '&7куда угодно, щелкая правой кнопкой'
+          - '&7и указывая этой'
+          - '&7волшебной палкой!'
+          Unlocked:
+          - '&7Позволяет тебе телепортироваться'
+          - '&7куда угодно, щелкая правой кнопкой'
+          - '&7и указывая этой'
+          - '&7волшебной палкой!'
+      Fire Trail:
+        Name: '&9Гаджет Огненный След'
+        Material: BLAZE_POWDER
+        Cooldown: 50
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Дает тебе Скорость II и'
+          - '&7оставляет за тобой след'
+          - '&7огня!'
+          Unlocked:
+          - '&7Дает тебе Скорость II и'
+          - '&7оставляет за тобой след'
+          - '&7огня!'
+      Grappling Hook:
+        Name: '&9Гаджет Крюк-Зацепка'
+        Material: FISHING_ROD
+        Cooldown: 0
+        Mystery Dust: 27
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Иногда нужно схватиться за'
+          - '&7серьёзные проблемы... а иногда просто'
+          - '&7просто зацепиться!'
+          - '&7Прокатайся по своему любимому'
+          - '&7лобби с этим гаджетом Крюк-Зацепка'
+          - '&7.'
+          Unlocked:
+          - '&7Иногда нужно схватиться за'
+          - '&7серьёзные проблемы... а иногда просто'
+          - '&7просто зацепиться!'
+          - '&7Прокатайся по своему любимому'
+          - '&7лобби с этим гаджетом Крюк-Зацепка'
+          - '&7.'
+      Paint Trail:
+        Name: '&9Гаджет Цветной След'
+        Material: MAGENTA_DYE
+        Blacklist:
+        - SPAWNER
+        - GRAVEL
+        - SPAWNER
+        Cooldown: 35
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Оставляет след из случайно'
+          - '&7окрашенной глины за тобой'
+          - '&7которая исчезает через'
+          - '&7несколько секунд.'
+          Unlocked:
+          - '&7Оставляет след из случайно'
+          - '&7окрашенной глины за тобой'
+          - '&7которая исчезает через'
+          - '&7несколько секунд.'
+      Parachute:
+        Name: '&5Гаджет Парашют'
+        Material: LEAD
+        Cooldown: 60
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Стреляешь в небо,'
+          - '&7незадолго до раскрытия'
+          - '&7своего парашюта для мягкой'
+          - '&7посадки.'
+          Unlocked:
+          - '&7Стреляешь в небо,'
+          - '&7незадолго до раскрытия'
+          - '&7своего парашюта для мягкой'
+          - '&7посадки.'
+      Teleporter:
+        Name: '&5Гаджет Телепортер'
+        Material: ENDER_EYE
+        Cooldown: 30
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Initiating-Teleport-Sequence: '&e&lИнициируется телепортационная последовательность.
+            Пожалуйста, подождите!'
+          Scanning-Players: '&e&lСканирую игроков для поиска цели телепортации...'
+          Target-Acquired: '&e&lЦель найдена: &k&lСЛУЧАЙНЫЕБУКВЫ&e&l!'
+          Teleport-Initiating: '&e&lПристегнись! Телепортация начинается...'
+          Teleport-Complete: '&e&lТелепортация завершена! Спасибо, что воспользовались
+            Телепортером!'
+          Process-Failed: '&c&lОшибка процесса "поиск цели"! Не удалось найти подходящую
+            цель!'
+          Aborted-Teleport-Sequence: '&c&lТелепортационная последовательность прервана...'
+        Lore:
+          Locked:
+          - '&7В мгновение ока ты'
+          - '&7исчезаешь и волшебным'
+          - '&7образом появляешься в другом месте.'
+          - '&7Пересекай пространственно-временной'
+          - '&7континуум с этим'
+          - '&7гаджетом Телепортер.'
+          Unlocked:
+          - '&7В мгновение ока ты'
+          - '&7исчезаешь и волшебным'
+          - '&7образом появляешься в другом месте.'
+          - '&7Пересекай пространственно-временной'
+          - '&7континуум с этим'
+          - '&7гаджетом Телепортер.'
+      Rocket:
+        Name: '&6Гаджет Ракета'
+        Material: FIREWORK_ROCKET
+        Cooldown: 120
+        Mystery Dust: 125
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Отправляйся к луне с'
+          - '&7этой масштабной ракетой'
+          - '&7с обратным отсчетом,'
+          - '&7звуками и взрывным'
+          - '&7финалом.'
+          Unlocked:
+          - '&7Отправляйся к луне с'
+          - '&7этой масштабной ракетой'
+          - '&7с обратным отсчетом,'
+          - '&7звуками и взрывным'
+          - '&7финалом.'
+      Let It Snow:
+        Name: '&9Гаджет Пусть Снег Идет'
+        Material: SNOW_BLOCK
+        Cooldown: 80
+        Mystery Dust: 60
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Запускает небольшой снежный шторм'
+          - '&7вокруг тебя, покрывая'
+          - '&7территорию белизной на короткое'
+          - '&7время!'
+          Unlocked:
+          - '&7Запускает небольшой снежный шторм'
+          - '&7вокруг тебя, покрывая'
+          - '&7территорию белизной на короткое'
+          - '&7время!'
+  Musical:
+    Name: '&eМузыкальные'
+    Material: JUKEBOX
+    GUI-Name: Музыкальные
+    Enabled: true
+    Lore:
+    - '&7Создай шум с этими'
+    - '&7музыкальными гаджетами, излучающими звук'
+    - '&7!'
+    Types:
+      Jukebox:
+        Name: '&5Гаджет Джукбокс'
+        Material: MUSIC_DISC_CAT
+        Cooldown: 3
+        Mystery Dust: 52
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Позволяет открыть музыкальный'
+          - '&7плеер, где можно выбрать'
+          - '&7из разных хитов C418'
+          - '&7для воспроизведения.'
+          Unlocked:
+          - '&7Позволяет открыть музыкальный'
+          - '&7плеер, где можно выбрать'
+          - '&7из разных хитов C418'
+          - '&7для воспроизведения.'
+        Items:
+          GUI-Name: Джукбокс
+          Track:
+            Name: '&b{TRACK}'
+            Lore:
+            - ''
+            - '&eНажми, чтобы проиграть!'
+          Stop-Track:
+            Name: '&cОстановить трек'
+            Material: RED_WOOL
+            Lore:
+            - '&7Остановить текущий трек.'
+      Radio:
+        Name: '&6Гаджет Радио'
+        Material: MUSIC_DISC_13
+        Cooldown: 3
+        Mystery Dust: 105
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Слушай свои любимые'
+          - '&7хиты Noteblock с этим'
+          - '&7патентованным гаджетом Радио!'
+          Unlocked:
+          - '&7Слушай свои любимые'
+          - '&7хиты Noteblock с этим'
+          - '&7патентованным гаджетом Радио!'
+        Items:
+          GUI-Name: Радио
+          Track:
+            Name: '&b{TRACK}'
+            Material: NOTE_BLOCK
+            Lore:
+            - ''
+            - '&eНажми, чтобы проиграть!'
+          Stop-Track:
+            Name: '&cОстановить трек'
+            Material: RED_WOOL
+            Lore:
+            - '&7Остановить текущий трек.'
+      Disco Ball:
+        Name: '&5Гаджет Диско Шар'
+        Material: LIGHT_BLUE_STAINED_GLASS
+        Duration-Seconds: 60
+        Cooldown: 80
+        Mystery Dust: 60
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Создает диско шар,'
+          - '&7с эффектами и музыкой.'
+          Unlocked:
+          - '&7Создает диско шар,'
+          - '&7с эффектами и музыкой.'
+      DJ Booth:
+        Name: '&6Гаджет DJ Кабина'
+        Material: NOTE_BLOCK
+        Duration-Seconds: 60
+        Blacklist:
+        - SAND
+        - GRAVEL
+        - SPAWNER
+        Cooldown: 60
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Если ты когда-нибудь мечтал(а)'
+          - '&7стать диджеем, сейчас или никогда!'
+          - '&7Заворожи своих друзей этим'
+          - '&7DJ набором и танцполом.'
+          Unlocked:
+          - '&7Если ты когда-нибудь мечтал(а)'
+          - '&7стать диджеем, сейчас или никогда!'
+          - '&7Заворожи своих друзей этим'
+          - '&7DJ набором и танцполом.'
+  Projectile:
+    Name: '&eСнаряды'
+    Material: BOW
+    GUI-Name: Снаряды
+    Enabled: true
+    Lore:
+    - '&7Стреляй во все стороны!'
+    - '&7По лобби с этими забавными'
+    - '&7гаджетами-снарядами!'
+    Types:
+      MobGun:
+        Name: '&9Гаджет Орудие Мобов'
+        Material: BLAZE_ROD
+        Cooldown: 30
+        Mystery Dust: 28
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Запускай взрывающиеся'
+          - '&7снаряды, используя 18'
+          - '&7разных типов мобов.'
+          Unlocked:
+          - '&7Запускай взрывающиеся'
+          - '&7снаряды, используя 18'
+          - '&7разных типов мобов.'
+        Actionbar-Message: '{GADGET} &r- {MOB}'
+        Mob-Name:
+          Pig: Pig
+          Villager: Villager
+          Ocelot: Ocelot
+          Cow: Cow
+          Creeper: Creeper
+          Spider: Spider
+          Squid: Squid
+          Chicken: Chicken
+          Sheep: Sheep
+          Wolf: Wolf
+          Witch: Witch
+          Blaze: Blaze
+          Horse: Horse
+          Zombie: Zombie
+          Skeleton: Skeleton
+          MushroomCow: MushroomCow
+          CaveSpider: CaveSpider
+          PigZombie: PigZombie
+      Railgun:
+        Name: '&aГаджет Рельсотрон'
+        Material: LEVER
+        Cooldown: 5
+        Mystery Dust: 16
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Это базовый рельсотрон'
+          - '&7готовый стрелять по команде!'
+          Unlocked:
+          - '&7Это базовый рельсотрон'
+          - '&7готовый стрелять по команде!'
+      Explosive Bow:
+        Name: '&aГаджет Взрывной Лук'
+        Material: BOW
+        Cooldown: 8
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Телепортационные палки для'
+          - '&7неудачников. Все крутые дети'
+          - '&7используют Взрывной Лук'
+          Unlocked:
+          - '&7Телепортационные палки для'
+          - '&7неудачников. Все крутые дети'
+          - '&7используют Взрывной Лук'
+      Paintball Gun:
+        Name: '&aГаджет Пейнтбол'
+        Material: DIAMOND_HORSE_ARMOR
+        Radius: 3
+        Blacklist:
+        - SAND
+        - GRAVEL
+        - SPAWNER
+        Cooldown: 3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Что может быть лучше, чтобы оживить'
+          - '&7лобби, чем с'
+          - '&7немного цвета? Или много,'
+          - '&7кто вообще считает?'
+          Unlocked:
+          - '&7Что может быть лучше, чтобы оживить'
+          - '&7лобби, чем с'
+          - '&7немного цвета? Или много,'
+          - '&7кто вообще считает?'
+      Melon Launcher:
+        Name: '&aГаджет Запуск Дынь'
+        Material: MELON
+        Cooldown: 3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Съешь дольки дыни для'
+          - '&7временного ускорения!'
+          Unlocked:
+          - '&7Съешь дольки дыни для'
+          - '&7временного ускорения!'
+  Visual:
+    Name: '&eВизуальные'
+    Material: head:fec5963e1f78f2f05943f4dd32224661374c220ecfde1e54754f5ee1e555dd
+    GUI-Name: Визуальные
+    Enabled: true
+    Lore:
+    - '&7Измени внешний вид себя или'
+    - '&7лобби с помощью этих'
+    - '&7визуальных гаджетов!'
+    Types:
+      Kookie Fountain:
+        Name: '&5Гаджет Фонтан Печенек'
+        Material: COOKIE
+        Cooldown: 60
+        Mystery Dust: 62
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Заставляет печеньки литься вокруг'
+          - '&7тебя!'
+          Unlocked:
+          - '&7Заставляет печеньки литься вокруг'
+          - '&7тебя!'
+      Pyromaniac:
+        Name: '&9Гаджет Пиромана'
+        Material: FLINT_AND_STEEL
+        Cooldown: 30
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Превращает тебя в шар огня'
+          - '&7на 10 секунд, прежде чем'
+          - '&7остыть.'
+          Unlocked:
+          - '&7Превращает тебя в шар огня'
+          - '&7на 10 секунд, прежде чем'
+          - '&7остыть.'
+      Diamond Shower:
+        Name: '&5Гаджет Алмазный Душ'
+        Material: DIAMOND
+        Cooldown: 60
+        Mystery Dust: 75
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Осушает тебя алмазами,'
+          - '&7отлично для демонстрации'
+          - '&7твоего потрясающего богатства.'
+          Unlocked:
+          - '&7Осушает тебя алмазами,'
+          - '&7отлично для демонстрации'
+          - '&7твоего потрясающего богатства.'
+      Gold Fountain:
+        Name: '&9Гаджет Золотой Фонтан'
+        Material: GOLD_NUGGET
+        Cooldown: 60
+        Mystery Dust: 70
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Что может быть лучше, чем с золотом?'
+          - '&7Заставь золото литься!'
+          Unlocked:
+          - '&7Что может быть лучше, чем с золотом?'
+          - '&7Заставь золото литься!'
+      Kawarimi No Jutsu:
+        Name: '&9Гаджет Каварами но Дзюцу'
+        Material: OAK_LOG
+        Cooldown: 30
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7С этой техникой пользователи'
+          - '&7заменяют своё тело на'
+          - '&7блок дерева.'
+          Unlocked:
+          - '&7С этой техникой пользователи'
+          - '&7заменяют своё тело на'
+          - '&7блок дерева.'
+      Cryotube:
+        Name: '&9Гаджет Криотуба'
+        Material: SNOWBALL
+        Cooldown: 45
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Замораживает тебя в ледяном'
+          - '&7щите, отлично, если ты планируешь'
+          - '&7выжить в любом апокалипсисе.'
+          Unlocked:
+          - '&7Замораживает тебя в ледяном'
+          - '&7щите, отлично, если ты планируешь'
+          - '&7выжить в любом апокалипсисе.'
+      Ghosts:
+        Name: '&9Гаджет Призраки'
+        Material: WITHER_SKELETON_SKULL
+        Cooldown: 40
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Порождает парящие головы призраков'
+          - '&7которые улетают, прежде чем'
+          - '&7исчезнуть, как только они появятся.'
+          Unlocked:
+          - '&7Порождает парящие головы призраков'
+          - '&7которые улетают, прежде чем'
+          - '&7исчезнуть, как только они появятся.'
+      Party Popper:
+        Name: '&9Гаджет Шумовая Бомба'
+        Material: ENDER_CHEST
+        Affect-Players: true
+        Cooldown: 60
+        Mystery Dust: 50
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Взрывает тебя в конфетти,'
+          - '&7с шумовыми эффектами, чтобы сделать'
+          - '&7твоё лобби по-настоящему праздничным.'
+          Unlocked:
+          - '&7Взрывает тебя в конфетти,'
+          - '&7с шумовыми эффектами, чтобы сделать'
+          - '&7твоё лобби по-настоящему праздничным.'
+      Poop Bomb:
+        Name: '&5Гаджет Бомба С Экскрементами'
+        Material: COCOA_BEANS
+        Cooldown: 40
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Если название говорит само за себя,'
+          - '&7это просто бомба, которая взрывается,'
+          - '&7разбрасывая экскременты повсюду.'
+          - '&7Да.'
+          Unlocked:
+          - '&7Если название говорит само за себя,'
+          - '&7это просто бомба, которая взрывается,'
+          - '&7разбрасывая экскременты повсюду.'
+          - '&7Да.'
+      TNT Fountain:
+        Name: '&6Гаджет Фонтан TNT'
+        Material: TNT
+        Cooldown: 80
+        Mystery Dust: 90
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Создает анимированный фонтан,'
+          - '&7который обрушивает подготовленный TNT.'
+          Unlocked:
+          - '&7Создает анимированный фонтан,'
+          - '&7который обрушивает подготовленный TNT.'
+      Dracula:
+        Name: '&aГаджет Дракула'
+        Material: GHAST_TEAR
+        Cooldown: 30
+        Mystery Dust: 15
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked:
+          - '&7Запускает волну летучих мышей'
+          - '&7и даёт тебе временную невидимость.'
+          Unlocked:
+          - '&7Запускает волну летучих мышей'
+          - '&7и даёт тебе временную невидимость.'
+Settings:
+  Disable-Usage-If-Cannot-Break-Block: false
